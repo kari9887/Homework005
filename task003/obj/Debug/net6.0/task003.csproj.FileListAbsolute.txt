@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/ Homework005/task003/bin/Debug/net6.0/task003
+/Users/macbook/Desktop/ Homework005/task003/bin/Debug/net6.0/task003.deps.json
+/Users/macbook/Desktop/ Homework005/task003/bin/Debug/net6.0/task003.runtimeconfig.json
+/Users/macbook/Desktop/ Homework005/task003/bin/Debug/net6.0/task003.dll
+/Users/macbook/Desktop/ Homework005/task003/bin/Debug/net6.0/task003.pdb
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.AssemblyInfo.cs
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.dll
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/refint/task003.dll
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.pdb
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/task003.genruntimeconfig.cache
+/Users/macbook/Desktop/ Homework005/task003/obj/Debug/net6.0/ref/task003.dll
